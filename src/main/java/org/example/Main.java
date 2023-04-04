@@ -5,11 +5,12 @@ public class Main {
         mainMethodshowMessage();
         mainMethodShowInfo();
     }
+
     private static void mainMethodshowMessage() {
-        System.out.println("Hello my friend\n");
-    }
-    private static void mainMethodShowInfo() {
-        System.out.println("Hello Kuandyk");
-        }
+        System.out.println("Hello my123456789 friend\n");
     }
 
+    private static void mainMethodShowInfo() {
+        System.out.println("Hello Kuandyk");
+    }
+}
